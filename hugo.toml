@@ -1,0 +1,8 @@
+baseURL = 'https://seanbintley.co.uk/'
+languageCode = 'en-gb'
+title = 'Sean Bintley'
+theme = 'hugo-brewm'
+[privacy]
+    [privacy.youTube]
+        disable = false
+        privacyEnhanced = true

@@ -13,9 +13,4 @@ theme = 'hugo-brewm'
         disableSlide = true
         disableListing = true
     [params.logo]
-        ## Light mode logo mark
-        logoMark = '/images/logos/logo01rect.png'
-        ## Dark mode logo mark
-        logoMarkDark = '/images/logos/logo01rect.png'
-        ## Enable logo type
         logoType = true

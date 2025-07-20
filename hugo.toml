@@ -6,3 +6,16 @@ theme = 'hugo-brewm'
     [privacy.youTube]
         disable = false
         privacyEnhanced = true
+[params]
+    [params.comments]
+        disabled = true
+    [params.home]
+        disableSlide = true
+        disableListing = true
+    [params.logo]
+        ## Light mode logo mark
+        logoMark = '/images/logos/logo01rect.png'
+        ## Dark mode logo mark
+        logoMarkDark = '/images/logos/logo01rect.png'
+        ## Enable logo type
+        logoType = true
